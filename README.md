@@ -8,7 +8,7 @@ It should be pretty self-explanatory but if you have any questions feel free to 
 If you find any problems or have any suggestions I am open to hearing them, or if you find any room for improvement, let me know!!!
 
 If you're new to GitHub (I am too, don't be embarressed, I literally created this account JUST to post this) here are some instructions to get started!
-Step 1: Open the Schedule 1 Mixer Setup.exe page
+Step 1: Open the Beta 2 Installer.zip page
 
 Step 2: Find the Download Button
 
