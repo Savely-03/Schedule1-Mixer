@@ -14,6 +14,7 @@ Step 2: Find the Download Button
 -   Ctrl+Shift+S 
 -   Triple Button block starting with "Raw," Third button is a Download Symbol
 -   Along the File line, next to the search bar, the three dot setting button
+
 Step 3: Open the Installer
 Step 4: Run The Installer
 Step 5: Mix, Experiment, Mess Around, try to break it.
