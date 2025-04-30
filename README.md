@@ -9,15 +9,22 @@ If you find any problems or have any suggestions I am open to hearing them, or i
 
 If you're new to GitHub (I am too, don't be embarressed, I literally created this account JUST to post this) here are some instructions to get started!
 Step 1: Open the Schedule 1 Mixer Setup.exe page
+
 Step 2: Find the Download Button
+
   Locations: 
 -   Ctrl+Shift+S 
 -   Triple Button block starting with "Raw," Third button is a Download Symbol
 -   Along the File line, next to the search bar, the three dot setting button
 
 Step 3: Open the Installer
+
 Step 4: Run The Installer
+
 Step 5: Mix, Experiment, Mess Around, try to break it.
+
 Step 6: Dude, wtf you broke my program?
+
 Step 7: Report the Broken stuff so I can fix it
+
 Step 7a (Optional): Try to fix the issue(s) yourself and let me know
